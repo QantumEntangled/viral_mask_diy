@@ -8,6 +8,8 @@ Below are the construction specicifications required by manufactueres of N95 par
 
 **Coating:** Hydrophilic Plastic (citric acid 2% w/w, & a pH-lowering agent)
 
+*This material is readily available online. Substitute should not be needed.*
+
 
 ## Second Layer
 
@@ -16,12 +18,16 @@ Below are the construction specicifications required by manufactueres of N95 par
 **Coating:** Copper & Zinc Ions (copper 1.6% w/w, zinc 1.6% w/w)
 Purpose: Neutralize Viral particulates
 
+*I'm unsure how/what to substitute this material. It may be available to purchase. Any material of sufficient density that can have Copper & Zinc ions bonded to it should work.*
+
 
 ## Third Layer
 
 **Material:** Melt-blown Polypropylene filter material (50g/m^2 meltblown polypropylene [meets NIOSH Respirator Certification])
 
-**Purpose:** Physical Particle Filtration
+**Purpose:** Physical Particle Filtration (must be .1 - .3 micron filtration)
+
+*This is a physical filter and will have to be purchased. I have not found a suitable substitute.*
 
 
 ## Fourth Layer (Inner)
@@ -29,6 +35,8 @@ Purpose: Neutralize Viral particulates
 **Material:** Spun-bound Polypropylene
 
 **Purpose:** Comforth & barrier between wearer's face & filter materials
+
+*Same material as Layer 1, should be easily sourced.*
 
 
 # References:
