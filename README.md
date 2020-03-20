@@ -1,6 +1,8 @@
 # Viral Mask Construction
 
-Below are the construction specicifications required by manufactueres of N95 particulate filtration respirators.
+**Inspiration:** https://www.forbes.com/sites/tjmccue/2020/03/20/calling-all-people-who-sew-and-make-you-can-help-solve-2020-n95-type-mask-shortage/#13b05e104e41
+
+**Mask Sewing Pattern:** https://freesewing.org/fu-facemask-freesewing.org.letter.pdf
 
 ## Outer Layer
 
